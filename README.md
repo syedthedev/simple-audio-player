@@ -6,7 +6,7 @@ A sleek and minimal **React Audio Player** that allows you to play, pause, and s
 
 ## 🔗 Live Preview
 
-🌐 [View Live on Netlify](https://simple-audio-player.netlify.app/)  
+🌐 [View Live on Netlify](https://audio-react-ap.netlify.app/)  
 _(Opens in a new tab)_
 
 ---
